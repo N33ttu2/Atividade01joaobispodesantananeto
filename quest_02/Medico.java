@@ -1,3 +1,4 @@
+package quest_02;
 public class Medico {
     private int codigo;
 	private String nome;

@@ -1,3 +1,5 @@
+package quest_02;
+
 public class Instancia {
     public static void main(String[] args) {
 		
